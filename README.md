@@ -26,7 +26,7 @@
 - The astonishing statistics of food waste attributed to households and their irresponsible consumption patterns.
 
 **GREENHOUSE EMISSION**
-
+      
 
 - “If wasted food were a country, it would be the third-largest producer of carbon dioxide in the world, after the US and China.” Food wastage accounts for over 7% of the world’s greenhouse gas emissions
 - The excess food waste usually ends up in landfills where it decomposes anaerobically, uses up oxygen and releases methane and other potent greenhouse gases which exacerbates the climate change crisis with its significant greenhouse gas (GHG) footprint. 
